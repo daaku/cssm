@@ -1,0 +1,6 @@
+github.com/maragudk/gomponents v0.22.0 h1:0gNrSDC1nM6w0Vxj5wgGXqV8frDH9UVPE+dEyy4ApPQ=
+github.com/maragudk/gomponents v0.22.0/go.mod h1:nHkNnZL6ODgMBeJhrZjkMHVvNdoYsfmpKB2/hjdQ0Hg=
+github.com/tdewolff/parse/v2 v2.7.16 h1:hnytfQt3784E5fvg1MiyNlBWx7woBmUuW00wQh+ELpk=
+github.com/tdewolff/parse/v2 v2.7.16/go.mod h1:3FbJWZp3XT9OWVN3Hmfp0p/a08v4h8J9W1aghka0soA=
+github.com/tdewolff/test v1.0.11-0.20231101010635-f1265d231d52 h1:gAQliwn+zJrkjAHVcBEYW/RFvd2St4yYimisvozAYlA=
+github.com/tdewolff/test v1.0.11-0.20231101010635-f1265d231d52/go.mod h1:6DAvZliBAAnD7rhVgwaM7DE5/d9NMOAJ09SqYqeK4QE=
